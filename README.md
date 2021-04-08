@@ -1,7 +1,5 @@
-# news_clean_arch
 
-A new Flutter project.
-
+Это простой проект написанное на фреймфорке flutter демонстрирует работу с api с соблюдения принципов Clean Architecture и Bloc State Management
 ## Getting Started
 
 This project is a starting point for a Flutter application.
